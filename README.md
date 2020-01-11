@@ -29,6 +29,20 @@ My goal is to learn the proper use of a couple thousand words or so from multipl
 
 3. First understand the message, and you'll unconsciously acquire the language (comprehensible input).
 
+4. Physiological training - speaking takes muscle
+
+5. Psycho-physiological state matters - tolerate ambiguity
+
+&nbsp;
+
+**Actions:**
+
+1. Listen a LOT - brain soaking.
+
+2. Focus on getting the meaning first before the words.
+
+3. Start Mixing: 10 nouns, 10 verbs, 10 adjectives is roughly a thousand phrases.
+
 4. Focus on the Core: 1000 words == 85% or so of a language, 3,000 == 98% or so.
 
 * Week 1 - the tool box: In new language, "What is this? How do you say? I don't understand."
