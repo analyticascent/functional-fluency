@@ -9,6 +9,12 @@ As with learning programming, foreign language mastery is far more likely to hap
 
 * [https://www.japanesepod101.com/](https://www.japanesepod101.com/)
 
+* [https://www.fluentin3months.com/](https://www.fluentin3months.com/)
+
+* [https://keytokorean.com/vocabulary/](https://keytokorean.com/vocabulary/)
+
+* [https://iknow.jp/content/japanese](https://iknow.jp/content/japanese)
+
 &nbsp;
 
 ### Books:
@@ -16,6 +22,12 @@ As with learning programming, foreign language mastery is far more likely to hap
 * Lonely Planet Korean Phrasebook & Dictionary (6th edition, will buy 7th later this year)
 
 * Lonely Planet Japanese Phrasebook & Dictionary (9th edition, will buy 10th next year)
+
+* Lonely Planet Fast Talk Japanese (1st edition)
+
+* Lonely Planet Fast Talk Spanish (4th edition)
+
+* [Wikibooks Spanish](https://en.wikibooks.org/wiki/Spanish)
 
 &nbsp;
 
