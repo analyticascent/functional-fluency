@@ -17,6 +17,8 @@ As with learning programming, foreign language mastery is far more likely to hap
 
 * [https://iknow.jp/content/japanese](https://iknow.jp/content/japanese)
 
+* [https://1000mostcommonwords.com/](https://1000mostcommonwords.com/)
+
 &nbsp;
 
 ### Books:
