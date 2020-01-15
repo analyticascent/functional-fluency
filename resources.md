@@ -42,3 +42,7 @@ As with learning programming, foreign language mastery is far more likely to hap
 * [Joytan App](https://www.youtube.com/channel/UC0bLbtTI9uni3bNRPIJQAqA)
 
 * [Kendra's Language School](https://www.youtube.com/channel/UCTYQzAi6YOcgv2mkzsfzmpA/)
+
+* [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
+
+* [Yuko Sensei](https://www.youtube.com/channel/UCf-ruwCgdtpCzuM7ODY5c9g)
