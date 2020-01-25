@@ -3,6 +3,7 @@
 As with learning programming, foreign language mastery is far more likely to happen if a variety of available resources are put to use. This markdown file will list each distinct language resource I put to use. For obvious reasons, I'll likely add more to this over time.
 
 &nbsp;
+
 ### Websites:
 
 * [https://www.koreanclass101.com/](https://www.koreanclass101.com/)
@@ -46,3 +47,11 @@ As with learning programming, foreign language mastery is far more likely to hap
 * [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 
 * [Yuko Sensei](https://www.youtube.com/channel/UCf-ruwCgdtpCzuM7ODY5c9g)
+
+&nbsp;
+
+### Anki Flashcards:
+
+* Get Anki here: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+
+* [Spanish Core 100 - Basic words (EN ES with audio)](https://ankiweb.net/shared/info/264662891)
