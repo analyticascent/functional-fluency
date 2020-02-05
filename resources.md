@@ -54,4 +54,14 @@ As with learning programming, foreign language mastery is far more likely to hap
 
 * Get Anki here: [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-* [Spanish Core 100 - Basic words (EN ES with audio)](https://ankiweb.net/shared/info/264662891)
+* [All Core 100 Language Decks - And More](https://ankiweb.net/shared/byauthor/1758160103) (Spanish, Korean, Japanese)
+
+* [Hangul (Korean Alphabet)](https://ankiweb.net/shared/info/2530965591)
+
+* [Korean 1000 most common words](https://ankiweb.net/shared/info/408875623)
+
+* [JLPT N5 Vocabulary Deck](https://ankiweb.net/shared/info/1194221613)
+
+* [Ultimate JLPT N5 Vocabulary Deck v1.3](https://ankiweb.net/shared/info/523650169)
+
+* [Japanese Core 2000 - Complete 01 - 09](https://ankiweb.net/shared/info/1723306405)
