@@ -16,6 +16,10 @@ As with learning programming, foreign language mastery is far more likely to hap
 
 * [https://www.topikguide.com/](https://www.topikguide.com/)
 
+* [http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
+
+* [https://jlptstudy.net/](https://jlptstudy.net/)
+
 * [https://japanesetest4you.com/](https://japanesetest4you.com/)
 
 * [https://iknow.jp/content/japanese](https://iknow.jp/content/japanese)
@@ -47,6 +51,8 @@ As with learning programming, foreign language mastery is far more likely to hap
 * [Miku Real Japanese](https://www.youtube.com/channel/UCsQCbl3a9FtYvA55BxdzYiQ)
 
 * [Yuko Sensei](https://www.youtube.com/channel/UCf-ruwCgdtpCzuM7ODY5c9g)
+
+* [NativeKoreanSpeak](https://www.youtube.com/channel/UCyk5hTUnPnD6bYkeM5M2mXg)
 
 &nbsp;
 
