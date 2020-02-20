@@ -6,9 +6,9 @@ As with learning programming, foreign language mastery is far more likely to hap
 
 ### Websites:
 
-* [https://www.koreanclass101.com/](https://www.koreanclass101.com/)
+* [https://www.koreanclass101.com/](https://www.koreanclass101.com/) (and it's [YouTube channel](https://www.youtube.com/user/koreanclass101))
 
-* [https://www.japanesepod101.com/](https://www.japanesepod101.com/)
+* [https://www.japanesepod101.com/](https://www.japanesepod101.com/) (and it's [YouTube channel](https://www.youtube.com/user/japanesepod101))
 
 * [https://www.fluentin3months.com/](https://www.fluentin3months.com/)
 
